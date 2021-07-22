@@ -1,0 +1,9 @@
+commit af34d14243000e1632ce8c8182e2ba5acbcc7a3f
+tree 01fd918e35a20b44316791b3a71608ad62c8695f
+parent f68ebc274d72e6976ac60cdb537cd1b960860299
+author Vydovskyi Volodymyr <80690863+vladvidov@users.noreply.github.com> 2021-07-22 21:52:15 +0300
+committer GitHub <noreply@github.com> 2021-07-22 21:52:15 +0300
+
+    Change sleeping in script to 3 sec
+
+:100644 100644 abf8a9f7c8733b8138d4b2f88e137a09a98d0e3e f91c95960975baea0d9e49c3da8d68a655d80e42 M	testscript.sh

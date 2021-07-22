@@ -1,0 +1,25 @@
+Started by GitHub push by vladvidov
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/scmjob
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/scmjob/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/vladvidov/some_code.git # timeout=10
+Fetching upstream changes from https://github.com/vladvidov/some_code.git
+ > git --version # timeout=10
+ > git --version # 'git version 1.8.3.1'
+ > git fetch --tags --progress https://github.com/vladvidov/some_code.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 0c09de4bc3ae1e6577abfac16730240722feedb2 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 0c09de4bc3ae1e6577abfac16730240722feedb2 # timeout=10
+Commit message: "Update testscript.sh"
+ > git rev-list --no-walk 3eeb6e7f43280c4f2b8323ad2fe94616dcdb913f # timeout=10
+[scmjob] $ /bin/sh -xe /tmp/jenkins12184813378057747491.sh
++ chmod +x ./testscript.sh
++ ./testscript.sh
+this script is from github
+75
+This was added
+Finished: SUCCESS
