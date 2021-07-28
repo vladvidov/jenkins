@@ -1,9 +1,0 @@
-commit 5e08d83d8757df1a5bf656af60a06381ad2c748a
-tree 7a669851f6cb3844d44366793fb7b693dedd8ec0
-parent 422624fc5477df3eb2ac2c5ec7fe7e58b0483cb0
-author Vydovskyi Volodymyr <80690863+vladvidov@users.noreply.github.com> 2021-07-22 21:59:57 +0300
-committer GitHub <noreply@github.com> 2021-07-22 21:59:57 +0300
-
-    Update testscript.sh
-
-:100644 100644 abf8a9f7c8733b8138d4b2f88e137a09a98d0e3e 42c6e981cb7969428223c000c4521a6d2d875a2b M	testscript.sh
