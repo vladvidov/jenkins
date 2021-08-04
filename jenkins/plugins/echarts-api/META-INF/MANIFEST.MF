@@ -6,13 +6,13 @@ Build-Jdk: 11.0.11
 Extension-Name: echarts-api
 Specification-Title: Provides ECharts for Jenkins plugins.
 Implementation-Title: echarts-api
-Implementation-Version: 5.1.2-3
+Implementation-Version: 5.1.2-4
 Group-Id: io.jenkins.plugins
 Short-Name: echarts-api
 Long-Name: ECharts API Plugin
 Url: https://github.com/jenkinsci/echarts-api-plugin
 Minimum-Java-Version: 1.8
-Plugin-Version: 5.1.2-3
+Plugin-Version: 5.1.2-4
 Hudson-Version: 2.263.1
 Jenkins-Version: 2.263.1
 Plugin-Dependencies: bootstrap5-api:5.0.2-1,font-awesome-api:5.15.3-4,
