@@ -1,3 +1,0 @@
-[filesystem "Red Hat, Inc.|11.0.11|/dev/nvme0n1p1"]
-	timestampResolution = 7000 nanoseconds
-	minRacyThreshold = 987 microseconds
